@@ -14,8 +14,8 @@
   <i> ( 请点击下面的文本框，查看里面那些令你印象深刻的视频。) </i>
 <img src="/anh/haha.jpg"><br>
   
-<p><a href="https://gitlab.com/meimei23/vnv/-/raw/main/vd1.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 世界上有多少未解之谜？-009fcc?logoWidth=1" title="视频: 世界上有多少未解之谜？" alt="视频: 世界上有多少未解之谜？"></a></p>
-<p><a href="https://gitlab.com/wanmeir/hgffdhdfh/-/raw/main/shenyun1.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 顶级艺术 -009fcc?logoWidth=1" title="视频: 顶级艺术" alt="视频:  顶级艺术"></a></p>  
+<p><a href="https://lujie2890.art/media/19-1-2023.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/因为政府隐瞒了疫情，造成了中国人4亿人死亡。-009fcc?logoWidth=1" title="因为政府隐瞒了疫情，造成了中国人4亿人死亡。" alt="因为政府隐瞒了疫情，造成了中国人4亿人死亡。"></a></p>
+<p><a href="https://lujie2890.art/media/6-1-2023.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频:為何這次大疫如海嘯？如何自救？-009fcc?logoWidth=1" title="视频:為何這次大疫如海嘯？如何自救？" alt="视频:為何這次大疫如海嘯？如何自救？"></a></p>  
 <p><a href="https://gitlab.com/jonh2q/gfhde/-/raw/main/6-4.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/ 六四30周年 天安门大屠杀 看图见真相-009fcc?logoWidth=1" title="六四30周年 天安门大屠杀 看图见真相" alt="六四30周年 天安门大屠杀 看图见真相"></a></p>
  
 <p><a href="https://gitlab.com/wangwang0u/dfgfg/-/raw/main/vd4.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 高干子弟签证被拒 惊动高层-009fcc?logoWidth=1" title="视频: 高干子弟签证被拒 惊动高层" alt="视频: 高干子弟签证被拒 惊动高层"></a></p>
@@ -50,7 +50,7 @@
 .
 <img src="/anh/haha.jpg"><br>
   
-<p><a href="https://glodenglobe.info/" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/我们郑重的送你一份保平安的礼物-yellow?logoWidth=1" title="我们郑重的送你一份保平安的礼物" alt="我们郑重的送你一份保平安的礼物"></a></p>  
+<p><a href="https://wotui.fun/" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/我们郑重的送你一份保平安的礼物-yellow?logoWidth=1" title="我们郑重的送你一份保平安的礼物" alt="我们郑重的送你一份保平安的礼物"></a></p>  
 
 
 <img src="/anh/haha.jpg"><br>
